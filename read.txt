@@ -1,0 +1,14 @@
+
+THIS IS INFORMATION PURPOSE ONLY
+
+
+STEPS TO CONNECT TO EC2 USING LOCAL -
+
+1) Locate the Private key file scored in local computer
+
+2) Make it's Property only readable by
+    chmod 400 (name)
+
+3) copy the scp command given in the EC2 SSH client
+    It connects you to EC2 from local computer
+
